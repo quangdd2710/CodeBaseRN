@@ -1,0 +1,4 @@
+#Tue Jun 11 15:11:35 ICT 2019
+base.0=D\:\\REACT NATIVE\\PROJECT\\CodeBaseRN-master\\CodeBaseRN-master\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+renamed.0=classes.dex
+path.0=classes.dex
